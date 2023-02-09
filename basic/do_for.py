@@ -4,5 +4,5 @@ for name in names:
     print (name)
 
 
-     for x in range(6)
-   print()
+     qfor x in range(6):
+        print()
